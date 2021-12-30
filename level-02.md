@@ -1,4 +1,4 @@
-# Level 02 - Fallback
+# Level 1 - Fallback
 ## There are two problems we need to solve for this level
 * Claim the ownership of the contract
 * Reduce its balance to 0
