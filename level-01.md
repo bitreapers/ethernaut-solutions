@@ -1,4 +1,4 @@
-# Level 1 - Hello Ethernaut
+# Level 0 - Hello Ethernaut
 * Clicking on 'Get a New Instance' lets the contract be deployed in the Rinkeby Network and provides you an address the contract is deployed at
 * Open "Developer Tools -> Console" 
 * Explore the contract with the following commands and more through the console
