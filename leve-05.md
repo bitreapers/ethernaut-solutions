@@ -17,5 +17,4 @@ So, all we need to do here is send any amount more than 20 to another wallet to 
 
 `await contract.transfer('to_address', 21)`
 
-
-
+Moral of the story, always use [SafeMath Library from Open Zepplin](https://docs.openzeppelin.com/contracts/2.x/api/math) when performing Math operations, atleast the above operation will be reverted
